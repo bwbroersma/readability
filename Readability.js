@@ -1904,3 +1904,7 @@ Readability.prototype = {
     };
   }
 };
+
+module.exports = {
+  Readability: Readability
+};
